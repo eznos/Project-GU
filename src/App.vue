@@ -2,6 +2,7 @@
   <v-app :theme="theme">
     <v-app-bar>
       <v-btn to="/"> หน้าแรก </v-btn>
+      <v-btn to="/form"> แบบฟอร์ม </v-btn>
       <v-btn to="/login"> เข้าสู่ระบบ </v-btn>
       <v-spacer></v-spacer>
       <v-btn
